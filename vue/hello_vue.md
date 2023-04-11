@@ -3,7 +3,7 @@ vue项目基本操作
 
 ## hello world
 - 使用vue脚手架创建一个完整的vue应用
-- 项目位置: example/vue/hello_world
+- 项目位置: 1_example/vue/hello_world
 
 ### 1. 创建项目
 - 首先安装node.js
@@ -87,7 +87,7 @@ createApp(App).use(store).use(router).use(ElementPlus).mount('#app')
 
 ## 单页hello world
 - 创建单个html文件的vue项目
-- 项目位置: example/vue/hello_world_cdn
+- 项目位置: 1_example/vue/hello_world_cdn
 - 下面是一个使用cdn引入vue和element-ui的例子,在vs-code中可以使用插件live-server实时查看它
 ```html
 <html>
