@@ -18,7 +18,7 @@ import os
 - 图片
 <img src="https://github.com/umas2022/auto_trans/blob/main/readme/shot.jpg" width="50%" height="50%">
 
-- 表格
+- 表格  
 |  表头   | 表头  |  
 |  ----  | ----  |  
 | 单元格  | 单元格 |  
