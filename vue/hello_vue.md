@@ -83,7 +83,10 @@ createApp(App).use(store).use(router).use(ElementPlus).mount('#app')
 </template>
 ```
 
+### vue.config.js
 
+- https://cli.vuejs.org/config/#vue-config-js
+- 
 
 ## 单页hello world
 - 创建单个html文件的vue项目
