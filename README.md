@@ -1,9 +1,14 @@
 # blog.md
 编程学习记录极简版
 
-
-
-目前整理进度：css/div位置
+- 1_example
+  - 存放各种hello_world项目
+- 2_test
+  - 代码临时调试
+- 3_doing
+  - 感觉可行的项目，先收藏在这里
+- zip_xxx
+  - 具体项目
 
 
 

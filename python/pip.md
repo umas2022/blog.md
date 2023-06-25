@@ -4,6 +4,7 @@
 ```
 pip show xxx
 ```
+
 - 生成当前环境下的requirements.txt, 附带版本号
 ```
 pip freeze > requirements.txt
