@@ -12,6 +12,11 @@ docker pull ubuntu
 docker push
 ```
 
+- 检查镜像信息
+```
+docker image ls
+```
+
 - 检查容器信息
 ```
 docker container ls (-a)
