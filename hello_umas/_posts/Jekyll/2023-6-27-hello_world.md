@@ -54,11 +54,16 @@ toc: true
 
 6. 打包
     ```
-    jekyll build --source source_dir --destination destination_dir
+    jekyll build --source hello_umas --destination docs
     ```
     - 这条命令将网页构建到_site文件夹中，之后可以托管在服务器上
 
+7. 打包后可以先用python启动本地服务器看一下效果
 
+    ```
+    python -m http.server
+    ```
+    - 访问：http://localhost:8000/
 
 
 
