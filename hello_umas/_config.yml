@@ -53,3 +53,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# 默认是通过日期做子目录的方式
+# permalink   : date
+# 改为使用category做子目录
+permalink: /:categories/:title/
+

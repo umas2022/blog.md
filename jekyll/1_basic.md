@@ -33,15 +33,7 @@
 
 5. 添加markdown文件
    - 在 Jekyll 项目的 _posts 目录下创建一个 Markdown 文件，文件名必须遵循 YYYY-MM-DD-title.md 的格式，其中 YYYY-MM-DD 表示文章的发布日期，title 表示文章的标题，文件名中的单词必须用短横线 - 分隔
-   - 可以在md文件的头部添加解释文本
-      ```
-      ---
-      layout: post
-      title: awesome title
-      categories: Personal
-      ---
-      ```
-  - 多个类别可以categories: [Personal,python]
+
 
 6. 创建模板
    - 在 Jekyll 项目的 _layouts 目录下创建一个文章模板，模板文件名可以任意取，通常命名为 post.html 或 article.html，并在文件中使用 {{ content }} 占位符表示文章内容
@@ -66,6 +58,16 @@
     - 这条命令将网页构建到_site文件夹中，之后可以托管在服务器上
 
 
+## 可以直接套用主题
+- 官方主题：http://jekyllthemes.org/
+- 选择主题点击demo可以查看
+- 可以在github fork方便后续开发
+- download解压之后进入主题目录运行
+  ```
+  bundle install
+  jekyll serve
+  ```
+- 但想自己写
 
 
 ## 其他功能
